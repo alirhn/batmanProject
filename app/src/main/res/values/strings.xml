@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="please_wait">Please wait</string>
+    <string name="problem_occured">Problem occurred</string>
+    <string name="year_of_movie">Year : %s</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="rated">Rated\n</string>
+    <string name="released">Released</string>
+    <string name="runtime">Runtime</string>
+    <string name="genre">Genre</string>
+    <string name="director">Director</string>
+    <string name="writer">Writer</string>
+    <string name="actors">Actors</string>
+    <string name="plot">Plot</string>
+    <string name="language">Language</string>
+    <string name="country">Country</string>
+    <string name="awards">Awards</string>
+    <string name="meta_score">Meta score</string>
+    <string name="imdb_rating">IMDB rating</string>
+    <string name="imdb_votes">IMDB votes</string>
+    <string name="dvd">DVD</string>
+    <string name="box_office">Box office</string>
+    <string name="ratings">Ratings</string>
+</resources>
